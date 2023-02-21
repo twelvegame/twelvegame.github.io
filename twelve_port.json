@@ -2,6 +2,8 @@
     "xiaofeng486": {
         "url": "https://www.90jili.com/index?affiliateCode=phj005",
         "isToPage": false,
+        "isAlert": false,
+         "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -35,7 +37,8 @@
     },
     "xiaofeng487": {
         "url": "https://www.90jili.com/index?affiliateCode=phj005",
-        "isToPage": true,
+        "isToPage": false,
+        "isAlert": false,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -69,7 +72,8 @@
     },
     "xiaofeng488": {
         "url": "https://www.90jili.com/index?affiliateCode=phj006",
-        "isToPage": true,
+        "isToPage": false,
+         "isAlert": false,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -103,7 +107,8 @@
     },
     "xiaofeng489": {
         "url": "https://www.80jili.com?code=QtbrAYtRHF",
-        "isToPage": true,
+        "isToPage": false,
+        "isAlert": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -138,6 +143,8 @@
     "xiaofeng490": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
         "isToPage": false,
+         "isAlert": true,
+        "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
             {
                 "name": "deposit-success",
