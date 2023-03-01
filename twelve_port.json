@@ -39,6 +39,7 @@
         "url": "https://www.90jili.com/index?affiliateCode=phj005",
         "isToPage": false,
         "isAlert": false,
+        "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -74,6 +75,7 @@
         "url": "https://www.90jili.com/index?affiliateCode=phj006",
         "isToPage": false,
          "isAlert": false,
+        "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -109,6 +111,7 @@
         "url": "https://www.80jili.com?code=QtbrAYtRHF",
         "isToPage": false,
         "isAlert": true,
+        "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
             {
                 "name": "deposit-success",
